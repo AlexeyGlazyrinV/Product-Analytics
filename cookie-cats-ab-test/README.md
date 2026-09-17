@@ -9,8 +9,10 @@ Does moving the gate from level 30 to level 40 affect player retention?
 
 ## Data
 90 189 players randomly assigned to qgate_30` (control) or `gate_40` (test).
-Metrics: Retention D1 (returned next da), Retention D7 (returned after a week).
-Source: [Kaggle - Mobile Games A/B Testing (Cookie Cats)](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
+
+**Metrics:** Retention D1 (returned next da), Retention D7 (returned after a week).
+
+**Source:** [Kaggle - Mobile Games A/B Testing (Cookie Cats)](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
 
 ## Method
 - Chi-square test of independence (retention x version) for D1 and D7
