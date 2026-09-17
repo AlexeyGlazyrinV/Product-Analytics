@@ -8,8 +8,10 @@ Which behavioral segments (engagement level, genre, session/activity patterns) a
 
 ## Data
 40 034 players
-Metrics: EngagementLevel (Low/Medium/High), GameGenre, SessionsPerWeek, AvgSessionDurationMinutes, PlayerLevel, AchievementsUnlocked, PlayTimeHours, InGamePurchases (0/1)
-Source: [Kaggle - Predict Online Gaming Behavior Dataset] (https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
+
+**Metrics**: EngagementLevel (Low/Medium/High), GameGenre, SessionsPerWeek, AvgSessionDurationMinutes, PlayerLevel, AchievementsUnlocked, PlayTimeHours, InGamePurchases (0/1)
+
+**Source**: [Kaggle - Predict Online Gaming Behavior Dataset] (https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
 
 ## Method
 - Chi-square test: EngagementLevel x InGamePurchases
