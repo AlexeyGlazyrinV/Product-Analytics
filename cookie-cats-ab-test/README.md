@@ -22,6 +22,11 @@ Source: [Kaggle - Mobile Games A/B Testing (Cookie Cats)](https://www.kaggle.com
   |--------------------------------------------------------|
   | Retention D1 | 44.8% | 44.2% | -1.3% | 0.074 (not significant) |
   | Retention D7 | 19.0% | 18.2% | **-4.3%** | **0.0016(significant)** |
+  Metric 	gate_30 	gate_40 	Relative change 	p-value 
+Retention D1 	44.8% 	44.2% 	-1.3% 	0.074 (not significant) 
+Retention D7 	19.0% 	18.2% 	-4.3%	0.0016(significant)
+
+
 
   ## Recomendation
   Do not move the gate to level 40. The change shows no upside and causes a statistically significant drop in weekly retention.
